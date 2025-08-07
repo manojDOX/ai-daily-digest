@@ -6,7 +6,7 @@ An automated n8n workflow that discovers, analyzes, and publishes the top 5 tren
 
 ---
 
-### ## About The Project
+## About The Project
 
 This project is a fully automated content pipeline built with n8n. Every Saturday, it scans GitHub for the most popular Python projects of the week, uses the Google Gemini AI to understand what each project does, and then builds and publishes a custom-styled HTML page to GitHub Pages.
 
@@ -23,7 +23,7 @@ The goal is to create a zero-maintenance, automatically updating digest that hel
 
 ---
 
-### ## ✨ Features
+## ✨ Features
 
 * **Weekly Automation**: The workflow is triggered automatically every Saturday.
 * **Dynamic Discovery**: Uses the GitHub API to find the top 5 most-starred Python projects from the past 7 days.
@@ -37,7 +37,7 @@ The goal is to create a zero-maintenance, automatically updating digest that hel
 
 ---
 
-### ## Workflow Breakdown
+## Workflow Breakdown
 
 The automation is powered by a sequence of n8n nodes, each with a specific job:
 
@@ -53,7 +53,7 @@ The automation is powered by a sequence of n8n nodes, each with a specific job:
 
 ---
 
-### ## Technology Stack
+## Technology Stack
 
 * **Automation**: [n8n.io](https://n8n.io/)
 * **AI Analysis**: [Google Gemini API](https://ai.google.dev/)
@@ -64,7 +64,7 @@ The automation is powered by a sequence of n8n nodes, each with a specific job:
 
 ---
 
-### ## Setup & Installation
+## Setup & Installation
 
 To run this project yourself:
 
