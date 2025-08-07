@@ -2,7 +2,7 @@
 
 An automated n8n workflow that discovers, analyzes, and publishes the top 5 trending AI/ML projects from GitHub every week.
 
-**[➡️ View the Live Demo](https://manojdox.github.io/ai-daily-digest/)** *(Note: Replace `manojDOX` with your username if different)*
+**[➡️ View the Live Demo](https://manojdox.github.io/ai-daily-digest/)**
 
 ---
 
@@ -13,12 +13,13 @@ This project is a fully automated content pipeline built with n8n. Every Saturda
 The goal is to create a zero-maintenance, automatically updating digest that helps developers, students, and AI enthusiasts discover new and exciting projects in the AI/ML space.
 
 #### **The n8n Workflow**
-![n8n Workflow Diagram](image_c521ad.png)
-*(Note: To make this image work, upload your workflow screenshot to your repository and name it `image_c521ad.png`)*
+<img width="1073" height="608" alt="image" src="https://github.com/user-attachments/assets/8a85edc2-ba35-48d5-91ff-e8cd9f5e3159" />
+
 
 #### **Sample Output**
-![Sample Output Page](<URL_to_your_sample_output_image.png>)
-*(Note: Take a screenshot of your final, working page, upload it to the repository, and replace the link above.)*
+<img width="1073" height="608" alt="image" src="https://github.com/user-attachments/assets/78fea017-27d1-4a58-8ad1-18e28c992ea4" />
+
+
 
 ---
 
